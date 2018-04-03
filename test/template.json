@@ -1,0 +1,12 @@
+{
+  "Resources": {
+    "Test": [
+      {
+        "Fn::Sub": [ "a", "b" ]
+      },
+      {
+        "Ref": "Test"
+      }
+    ]
+  }
+}

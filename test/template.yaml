@@ -1,0 +1,6 @@
+Resources:
+  Test:
+    - !Sub
+      - a
+      - b
+    - !Ref "Test"
