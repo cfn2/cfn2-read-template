@@ -1,18 +1,18 @@
 {
-  "name": "cfn-read-template",
-  "version": "0.0.2",
+  "name": "@cfn2/read-template",
+  "version": "0.1.0",
   "description": "Read templates of CloudFormation",
   "author": "Kengo Nakatsuka <kengo.nakatsuka@gmail.com>",
   "bugs": {
-    "url": "https://github.com/nak2k/node-cfn-read-template/issues"
+    "url": "https://github.com/cfn2/cfn2-read-template/issues"
   },
   "dependencies": {
     "js-yaml-schema-cfn": "^1.0.1"
   },
   "devDependencies": {
-    "tape": "^4.9.0"
+    "tape": "^4.10.1"
   },
-  "homepage": "https://github.com/nak2k/node-cfn-read-template",
+  "homepage": "https://github.com/cfn2/cfn2-read-template",
   "keywords": [
     "aws",
     "cloudformation"
@@ -21,7 +21,7 @@
   "main": "lib",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nak2k/node-cfn-read-template.git"
+    "url": "git+https://github.com/cfn2/cfn2-read-template.git"
   },
   "scripts": {
     "prepublishOnly": "npm test",

@@ -1,9 +1,9 @@
-# cfn-read-template
+# @cfn2/read-template
 
 ## Installation
 
 ```
-npm i cfn-read-template -S
+npm i @cfn2/read-template
 ```
 
 ## License

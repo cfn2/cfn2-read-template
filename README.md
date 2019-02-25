@@ -1,17 +1,17 @@
-# cfn-read-template
+# @cfn2/read-template
 
 Read templates of CloudFormation.
 
 ## Installation
 
 ```
-npm i cfn-read-template -S
+npm i @cfn2/read-template
 ```
 
 ## Usage
 
 ``` javascript
-const { readTemplate } = require('cfn-read-template');
+const { readTemplate } = require('@cfn2/read-template');
 
 readTemplate('path/to/template-file', (err, template) => {
 });
