@@ -15,6 +15,7 @@
   "homepage": "https://github.com/cfn2/cfn2-read-template",
   "keywords": [
     "aws",
+    "cfn2",
     "cloudformation"
   ],
   "license": "MIT",
